@@ -8,7 +8,7 @@ from core.error_correction.fec import encode_data, decode_data
 import os
 
 INPUT_FILE = "data/input/sample.txt"
-VIDEO_FILE = "data/encoded/output.mkv"
+VIDEO_FILE = "data/encoded/output.mp4"
 FRAME_DIR = "data/encoded/frames"
 DECODED_DIR = "data/output/frames"
 OUTPUT_FILE = "data/output/recovered.txt"
