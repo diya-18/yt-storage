@@ -14,3 +14,6 @@ Thumbs.db
 # Virtual env
 venv/
 .env
+
+configs/client_secret.json
+token.pickle
