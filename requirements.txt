@@ -138,7 +138,11 @@ gitdb @ file:///tmp/build/80754af9/gitdb_1617117951232/work
 GitPython @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/gitpython_1729040708854/work
 Glymur==0.14.3
 gmpy2 @ file:///C:/b/abs_d8ki0o0h97/croot/gmpy2_1738085498525/work
+google-api-core==2.30.3
+google-api-python-client==2.196.0
 google-auth==2.40.3
+google-auth-httplib2==0.4.0
+google-auth-oauthlib==1.4.0
 googleapis-common-protos==1.70.0
 greenlet @ file:///C:/b/abs_bbl_18a2tm/croot/greenlet_1733860081977/work
 groq==0.30.0
@@ -149,6 +153,7 @@ h5py @ file:///C:/Users/dev-admin/buildout/croot/h5py_1739563828046/work
 HeapDict @ file:///Users/ktietz/demo/mc3/conda-bld/heapdict_1630598515714/work
 holoviews @ file:///C:/b/abs_9bbkzym0jb/croot/holoviews_1741882167503/work
 httpcore @ file:///C:/b/abs_25m7_xthp6/croot/httpcore_1748526065845/work
+httplib2==0.31.2
 httptools==0.6.4
 httpx @ file:///C:/b/abs_9fclaf1b46/croot/httpx_1746747856672/work
 huggingface-hub==0.34.1
@@ -310,6 +315,7 @@ prometheus_client @ file:///C:/b/abs_8b175q_ub8/croot/prometheus_client_17442716
 prompt_toolkit @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/prompt-toolkit_1729096615940/work
 propcache @ file:///C:/b/abs_57780xb0gk/croot/propcache_1744012740137/work
 Protego @ file:///C:/b/abs_48sti5uql_/croot/protego_1746479771804/work
+proto-plus==1.28.0
 protobuf @ file:///C:/b/abs_b5v84rwh56/croot/protobuf_1742419721750/work/bazel-bin/python/dist/protobuf-5.29.3-cp313-abi3-win_amd64.whl#sha256=0ef6aadfdcd9f988cbfc2d48eb8f7ed3d64acc158314c82a3a9c456f3fcc53a4
 psutil @ file:///C:/b/abs_b5gv3mn55h/croot/psutil_1736371546320/work
 ptyprocess @ file:///tmp/build/80754af9/ptyprocess_1609355006118/work/dist/ptyprocess-0.7.0-py2.py3-none-any.whl
@@ -387,6 +393,7 @@ qtconsole @ file:///C:/b/abs_077eiqc5gw/croot/qtconsole_1744633984381/work
 QtPy @ file:///C:/Users/dev-admin/buildout/perseverance-python-buildout/croot/qtpy_1731712232653/work
 queuelib @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/queuelib_1729063235364/work
 readchar @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/readchar_1729051800756/work
+reedsolo==1.7.0
 referencing @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/referencing_1729037987170/work
 regex @ file:///C:/b/abs_d785r851h6/croot/regex_1736542205858/work
 reproject==0.14.1
@@ -493,6 +500,7 @@ uc-micro-py @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/uc-m
 ujson @ file:///C:/b/abs_e5a_v6aejl/croot/ujson_1736543954444/work
 Unidecode @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/unidecode_1729103602327/work
 uri-template==1.3.0
+uritemplate==4.2.0
 urllib3 @ file:///C:/b/abs_7bst06lizn/croot/urllib3_1737133657081/work
 uuid_utils==0.14.1
 uvicorn==0.34.3
