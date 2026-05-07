@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+
+# Generated data
+data/encoded/*.mkv
+data/output/
+data/encoded/frames/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Virtual env
+venv/
+.env
