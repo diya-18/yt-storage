@@ -5,6 +5,7 @@ __pycache__/
 # Generated data
 data/encoded/*.mkv
 data/output/
+data/encoded/*.mp4
 data/encoded/frames/
 
 # OS
