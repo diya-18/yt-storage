@@ -1,4 +1,5 @@
 import os
+from utils.ffmpeg_wrapper import run_ffmpeg
 
 def build_video_from_frames(frame_dir, output_video):
     command = (
@@ -8,4 +9,4 @@ def build_video_from_frames(frame_dir, output_video):
         f"{output_video}"
     )
 
-    os.system(command)
+    run_ffmpeg(command)
